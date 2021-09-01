@@ -11,6 +11,13 @@
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+## Excerpts from Romeo and Juliet (arr. V. Borisovsky)
+### Sergei Prokofiev
+#### Timothy Ridout, viola ∙ Frank Dupree, piano
+
+</div>
 <center>**Languages and Tools:**</center>
 
 <p align="center">   
