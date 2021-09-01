@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/embed/fsoCk5kgOcYMM.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/U78wKLnlpdIQQgpNK2/giphy-downsized-large.gif?cid=ecf05e47hk6ia6djdmql56c4qhy3nzrhvtt4xdttmtffulys&rid=giphy-downsized-large.gif&ct=g" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
