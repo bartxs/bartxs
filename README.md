@@ -15,9 +15,6 @@
   <strong>Languages and Tools:</strong>
 </p>
 
-<center> <h1>heading 1</h1> </center>
-
-
 <p align="center">   
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
