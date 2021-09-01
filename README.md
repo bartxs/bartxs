@@ -11,11 +11,8 @@
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
-<div style="font-style: italic; text-align: center;" markdown="1">
-
-## Languages and Tools:
-
-
+<div style="font-style: italic; text-align: center;">
+  # Languages and Tools:
 </div>
 
 
