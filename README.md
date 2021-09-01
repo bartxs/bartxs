@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
+  <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
   <br><br>
   <samp>
-    Hey!! I'm Sarthak Singhal :wave:
+    Hey!! I'm Bart :wave:
     <br><br>
     I work as a Web :globe_with_meridians: developer!
   </samp>
@@ -18,5 +18,4 @@
 <a href="https://www.facebook.com/sarthak.singhal.98434"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="mailto:sarthak02singhal@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
-<br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
