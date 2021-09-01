@@ -1,6 +1,6 @@
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif?cid=ecf05e47s2wctd6ejdjsr3lkg8p20caraz2wqs4shdrvyb9j&rid=giphy-downsized-large.gif" />
-  <br><br>
+  <br>
   <samp>
     Hey!! I'm Bart :wave:
     <br><br>
