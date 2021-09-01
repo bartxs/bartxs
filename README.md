@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+  <img align="right" alt="GIF" src="https://i.imgur.com/NU8Baew.mp4" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
