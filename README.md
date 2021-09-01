@@ -11,9 +11,9 @@
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
-<div align="center">
-  Languages and Tools:
-</div>
+<p align="center">
+ # Languages and Tools:
+</p>
 
 
 <p align="center">   
