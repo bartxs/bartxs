@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://i.imgur.com/NU8Baew.mp4" />
+  <img align="right" alt="GIF" src="https://i.imgur.com/NU8Baew.gif" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
