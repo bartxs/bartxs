@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/embed/fsoCk5kgOcYMM.gif" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
