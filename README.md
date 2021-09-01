@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://i.imgur.com/NU8Baew.gif" />
+  <img align="right" alt="GIF" src="https://tenor.com/view/hack-ghost-in-shell-hacking-fast-type-gif-8363221" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
