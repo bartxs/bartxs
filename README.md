@@ -12,7 +12,7 @@
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 <p align="center" font-weight="bold">
- # Languages and Tools:
+  <strong>Languages and Tools:</strong>
 </p>
 
 <center> <h1>heading 1</h1> </center>
