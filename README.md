@@ -1,6 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM.gif" />
-  <iframe src="https://giphy.com/embed/fsoCk5kgOcYMM" width="480" height="255" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM">via GIPHY</a></p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM.gif" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
