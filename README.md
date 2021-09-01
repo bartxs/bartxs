@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://tenor.com/view/hacking-hack-gif-14791361" />
+  <img align="right" src="https://tenor.com/view/hacking-hack-gif-14791361" />
   <br><br>
   <samp>
     Hey!! I'm Bart :wave:
